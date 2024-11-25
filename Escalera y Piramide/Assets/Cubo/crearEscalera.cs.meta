@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 206a5df2ed53bbb43846ed1a59e99eb0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - escaleraPrefav: {fileID: 3330808212450664642, guid: d0572f2e5abf990478cb1ce7839300c5, type: 3}
+  - origen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
